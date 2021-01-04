@@ -23,10 +23,10 @@ var (
 		},
 		{
 			BuilderAsset: build.CreditAsset(
-				"MOBI",
-				"GA6HCMBLTZS5VYYBCATRBRZ3BZJMAFUDKYYF6AH6MVCMGWMRDNSWJPIH",
+				"CENTUS",
+				"GAKMVPHBET4T7DPN32ODVSI4AA3YEZX2GHGNNSBGFNRQ6QEVKFO4MNDZ",
 			),
-			Domain: "mobius.network",
+			Domain: "centus.one",
 			Type:   "token",
 		},
 		{
@@ -48,11 +48,11 @@ var (
 		},
 		{
 			BuilderAsset: build.CreditAsset(
-				"RMT",
-				"GCVWTTPADC5YB5AYDKJCTUYSCJ7RKPGE4HT75NIZOUM4L7VRTS5EKLFN",
+				"USD",
+				"GDUKMGUGDZQK6YHYA5Z6AY2G4XDSZPSZ3SW5UN3ARVMO6QSRDWP5YLEX",
 			),
-			Domain:       "sureremit.co",
-			Instructions: "https://sureremit.co",
+			Domain:       "stablecoin.anchorusd.com",
+			Instructions: "stablecoin.anchorusd.com",
 			Type:         "token",
 		},
 		{
@@ -65,11 +65,11 @@ var (
 		},
 		{
 			BuilderAsset: build.CreditAsset(
-				"XRP",
-				"GA7FCCMTTSUIC37PODEL6EOOSPDRILP6OQI5FWCWDDVDBLJV72W6RINZ",
+				"USDT",
+				"GCQTGZQQ5G4PTM2GL7CDIFKUBIPEC52BROAQIAPW53XBRJVN6ZJVTG6V",
 			),
-			Domain:       "vcbear.net",
-			Instructions: "https://www.vcbear.net/signin",
+			Domain:       "apay.io",
+			Instructions: "apay.io",
 		},
 	}
 )
